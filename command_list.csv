@@ -1,0 +1,204 @@
+    1  pwd
+    2   cd desktop
+    3  ls
+    4  clear
+    5  pwd
+    6  cd Git
+    7  touch goit.txt
+    8  ls
+    9  mkdir dersler
+   10  rm dersler
+   11  rm goit.txt
+   12  rmdir dersler
+   13  cleatr
+   14  clear
+   15  dat
+   16  cleat
+   17  clear
+   18  date
+   19  systeminfo
+   20  ipconfing
+   21  ipconfig
+   22  cd ..
+   23  clear
+   24  git config --global user.name Ahmetcan0935
+   25  git config --global user.email ahmetcansahin0@outlook.com
+   26  clear
+   27  pwd
+   28  cd desktop
+   29  cleat
+   30  celar
+   31  clear
+   32  pwd
+   33  cd ahmet
+   34  pwd
+   35  cd desktop
+   36  pwd
+   37  cd ..
+   38  clear
+   39  pwd
+   40  cd Ahmetcan ŞAHİN
+   41  clear
+   42  cd desktop
+   43  cd Masaüstü
+   44  cd ahmet
+   45  pwd
+   46  cd Masaüstü
+   47  cd SQL
+   48  cd OneDrive
+   49  pwd
+   50  cd desktop
+   51  cd masaüstü
+   52  pwd
+   53  cd SQL
+   54  pwd
+   55  git init
+   56  git add .
+   57  git commit -e "ilk versiyon"
+   58  clear
+   59  pwd
+   60  git commit -e "ilk versiyon"
+   61  clear
+   62  pwd
+   63  git add .
+   64  git commi
+   65  clear
+   66  pwd
+   67  git add .
+   68  git commit -e "ilk versiyon"
+   69  git remote add origin https://github.com/Ahmetcan0935/ahmet.git
+   70  clear
+   71  pwd
+   72  git add .
+   73  git commit -m "ilk versiyon"
+   74  git remote add origin https://github.com/Ahmetcan0935/ahmet.git
+   75  git push -u origin main
+   76  git push -u origin master
+   77  clear
+   78  git branch
+   79  git branch ahmet
+   80  git branch
+   81  git branch Anna
+   82  git branch
+   83  git chekout ahmet
+   84  git checkout ahmet
+   85  git checkout master
+   86  clear
+   87  git add .
+   88  git commit -m "master ilk commit"
+   89  git checkout ahmet
+   90  git commit -m "v1"
+   91  git add .
+   92  git commit -m "v1"
+   93  git checkout master
+   94   git merge ahmet
+   95  git add .
+   96  git commit -m "v2"
+   97  git push
+   98  git checkout ahmet
+   99  git merge master
+  100  git add .
+  101  git commit -m "son hali"
+  102  clear
+  103  git brach
+  104  clear
+  105  git branch
+  106  git push
+  107  git push --set-upstream origin ahmet
+  108  git add .
+  109  git commit -m "son versiyon"
+  110  git push
+  111  git merge master
+  112  git checkout master
+  113  git checkout ahmet
+  114  git add .
+  115  git commit -m "son versiyon"
+  116  git push
+  117  git merge master
+  118  git add .
+  119  git commit -m "son değişiklik2"
+  120  git push
+  121  git merge master
+  122  clear
+  123  git checkout master
+  124  clear
+  125  pwd
+  126  cd A10
+  127  clear
+  128  cd ..
+  129  clear
+  130  pwd
+  131  cd A10
+  132  pwd
+  133  [200~ git remote add origin https://github.com/Ahmetcan0935/ahmet.git
+  134   git remote add origin https://github.com/Ahmetcan0935/HW_10.git
+  135  clear
+  136  pwd
+  137  git init
+  138  git push -u origin master
+  139  git push -u origin main
+  140  git push -u pr
+  141  clear
+  142  pwd
+  143  git clone https://github.com/Ahmetcan0935/HW_10.git
+  144  cd HW_10
+  145  pwd
+  146  touch text_ignore.txt
+  147  git status
+  148  git add .
+  149  git commit -m "başlangıç"
+  150  git add .
+  151  git commit -m "başlangıç"
+  152  touch main_text.txt
+  153  git push -u origin master
+  154  git push -u origin main
+  155  git add .
+  156  git commit -m "huzur"
+  157  clear
+  158  pwd
+  159  rm main_text
+  160  clear
+  161  pwd
+  162  touch main_text.txt
+  163  git add .
+  164  git commit -m "huzur"
+  165  git push
+  166  git branch develop
+  167  checkout develop
+  168  git branch
+  169  git checkout develop
+  170  git push
+  171  git push --set-upstream origin develop
+  172  tocuh develop_test.txt
+  173  touch develop_test.txt
+  174  git add .
+  175  git commit -m "sadıç"
+  176  git push
+  177  git status
+  178  git add .
+  179  git commit -m "ilk kitap"
+  180  git push
+  181  checkout main
+  182  git checkout main
+  183  git merge develop
+  184  git log
+  185  pwd
+  186  git pull
+  187  pwd
+  188  cd OneDrive
+  189  cd Masaüstü
+  190  cd A10
+  191  cd HW_10
+  192  git pull
+  193  git checkout develop
+  194  git checkout main
+  195  git BASH history>command_list.csv
+  196  git bash history>command_list.csv
+  197  git add .
+  198  git commit -m "son"
+  199  git push
+  200  git history>command_list.csv
+  201  git history > command_list.csv
+  202  clear
+  203  history
+  204  history> command_list.csv
